@@ -23,7 +23,7 @@
   
   <br>
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela1](https://user-images.githubusercontent.com/79876042/142202825-8ae29f13-90e2-45f6-a1a2-ec3f098ff813.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela1](https://user-images.githubusercontent.com/79876042/142458265-8e204f48-f42c-4bd2-af4b-e30436bea02f.png)
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela2](https://user-images.githubusercontent.com/79876042/142206465-6f857083-4003-4a4e-bf55-825538a24ffd.png)
   <br>
