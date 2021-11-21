@@ -3,7 +3,7 @@
 
   > Status: Em andamento
   
-  ### Segundo projeto em andamento em Android com Kotlin! dessa vez estou desenvolvendo um aplicativo para amantes da culinária!o aplicativo contará com listas, catálogos e receitas de diversas comidas! :)
+  ### Segundo projeto em andamento em Android com Kotlin! dessa vez estou desenvolvendo um aplicativo para amantes da culinária! O aplicativo contará com listas, catálogos e fast food's em geral! :)
   
   <br>
   
