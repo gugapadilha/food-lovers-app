@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FoodLovers">
         <activity
-            android:name=".NewActivity"
+            android:name=".CardapioActivity"
             android:exported="true" />
         <activity
             android:name=".MainActivity"

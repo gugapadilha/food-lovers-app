@@ -9,5 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="textColor">#ECE5EC</color>
     <color name="pinkColor">#FF003B</color>
+    <color name="pepperColor">#F51C18</color>
+    <color name="greenColor">#4CD62B </color>
     <color name="trasparentColor">#00FFFFFF</color>
 </resources>

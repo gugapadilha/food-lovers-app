@@ -8,7 +8,6 @@ import android.os.Bundle
 import android.view.View
 import androidx.annotation.RequiresApi
 import kotlinx.android.synthetic.main.activity_main.*
-import kotlin.math.sign
 
 class MainActivity : AppCompatActivity() {
     @SuppressLint("UseCompatLoadingForDrawables")
@@ -37,7 +36,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         signIn.setOnClickListener {
-            startActivity(Intent(this@MainActivity, NewActivity::class.java))
+            startActivity(Intent(this@MainActivity, CardapioActivity::class.java))
         }
     }
 }
