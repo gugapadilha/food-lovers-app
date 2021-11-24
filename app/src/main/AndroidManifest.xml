@@ -12,6 +12,9 @@
         <activity
             android:name=".CardapioActivity"
             android:exported="true" />
+        <activity android:name=".PizzaActivity"
+            android:exported="true"/>
+
         <activity
             android:name=".MainActivity"
             android:exported="true">
