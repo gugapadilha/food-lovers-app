@@ -247,4 +247,25 @@
 
     </androidx.cardview.widget.CardView>
 
+    <Button
+        android:id="@+id/signIn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="100dp"
+        android:elevation="15dp"
+        android:gravity="center"
+        android:text="@string/ir_para_carrinho"
+        android:textAllCaps="false"
+        android:textColor="@color/textColor"
+        android:textSize="17sp"
+        app:backgroundTint="@color/pepperColor"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cv_pizza_strogonoff"
+        app:shapeAppearanceOverlay="@style/Button5" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
