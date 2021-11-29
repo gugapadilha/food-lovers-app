@@ -1,5 +1,6 @@
 package com.example.foodlovers
 
+import android.content.Intent
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
@@ -89,6 +90,9 @@ class PizzaActivity: AppCompatActivity() {
             }
         }
 
+        tv_irCarrinho.setOnClickListener {
+            startActivity(Intent(this@PizzaActivity, CarrinhoActivity::class.java))
+        }
 
     }
 }

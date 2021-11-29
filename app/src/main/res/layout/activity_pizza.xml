@@ -248,7 +248,7 @@
     </androidx.cardview.widget.CardView>
 
     <Button
-        android:id="@+id/signIn"
+        android:id="@+id/tv_irCarrinho"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
