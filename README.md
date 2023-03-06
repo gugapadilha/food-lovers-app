@@ -1,24 +1,23 @@
 
-<h1> Projeto: Site de Comidas <h1> 
+<h1> Project: Food Lovers <h1> 
 
-  > Status: Em andamento
+  > Status: In Progress
   
-  ### Segundo projeto em andamento em Android com Kotlin! dessa vez estou desenvolvendo um aplicativo para amantes da culinária! O aplicativo contará com listas, catálogos e fast food's em geral! :)
+  ### Second ongoing project on Android with Kotlin! this time I'm developing an app for cooking lovers! The application will feature lists, catalogs and fast food in general!
   
   <br>
   
-  <strong>Principais caracteristicas do projeto: </strong>
-  + Imagens;
+  <strong>Main Project Features: </strong>
+  + Images;
   + Login/Register;
-  + Catálogos;
-  + Validações;
-  + Implementações.
+  + Catalog;
+  + Validations;
   
-  <strong>Tecnologias usadas: </strong>
+  <strong>Technologies used: </strong>
    + Kotlin
    + Android 
   
-   ### Imagens do projeto:
+   ### Mobile Project Images:
   
   <br>
   
